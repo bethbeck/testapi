@@ -11,7 +11,7 @@ spot:
 lassie:
   age: 10
   breed: collie
-  color: brown
+  color: black
 
 poodle:
   age: 70
